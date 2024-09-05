@@ -61,9 +61,10 @@
     ```
 3. **개발 서버 실행**
     ```bash
-    yarn start
+    yarn dev
     ```
-4. **빌드**
+4. **빌드 시**
     ```bash
     yarn build
+    yarn start
     ```
