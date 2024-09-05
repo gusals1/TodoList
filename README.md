@@ -52,7 +52,7 @@
 ## 설치 및 실행
 1. **프로젝트 클론**
     ```bash
-    git clone https://github.com/your-repo/todolist.git
+    git clone https://github.com/gusals1/TodoList.git
     ```
 2. **의존성 설치**
     ```bash
